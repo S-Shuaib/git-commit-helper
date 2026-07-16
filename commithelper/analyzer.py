@@ -1,8 +1,3 @@
-"""
-analyzer.py — Parse git staged diff and generate a Conventional Commit message
-using pure rule-based heuristics. No API needed.
-"""
-
 import subprocess
 import re
 import os
